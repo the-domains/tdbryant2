@@ -1,0 +1,28 @@
+name: tdbryant2
+favicon: null
+layout_spectrum: 0.45063511515036225
+typography_spectrum: 0.2557429049629718
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.2134218409191817
+  lightness: 0.70171112078242
+  saturation: 0.3320060388650745
+  rhythmicContrast: 0.8450415714178234
+purpose: []
